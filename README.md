@@ -8,17 +8,17 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the engineering which invlolves design,development, testing, deployment and maintenance of software. It is important because promotes innovation, enhances data security, improves productivity and ensures software reliability.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1.The Birth of Software Engineering 1968-NATO Conference. This is where software engineering was introduced where many software projects failed which included lack of structured processes, system comoplexity and poor planning .
+1.The Birth of Software Engineering 1968-NATO Conference. This is where software engineering was introduced where many software projects failed which included lack of structured processes, system complexity and poor planning.
 2. The rise of Object Oriented Programming - 1980s. This is where OOP arised to help in system scalability, reusability and mantainability of coding.
-3. The rise of Agile and DevOps 2001 - Present. This period introduced agike development of programs which encourages flexible and iterative software development as opposed to limitations of traditional methods like waterfall. Addditionally DevOps emerged to promote collaboration between developers and operations to enable faster and reliable software delivery.
+3. The rise of Agile and DevOps 2001 - Present. This period introduced agile development of programs which encourages flexible and iterative software development as opposed to limitations of traditional methods like waterfall. Addditionally DevOps emerged to promote collaboration between developers and operations to enable faster and reliable software delivery.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Planning - Define the scope, goals and feasibility of your project.
-2. Requirement analysis - Idenity and document all your requiremnts for the functional and non-functional of the software.
+2. Requirement analysis - Identify and document all your requirements for the functional and non-functional of the software.
 3. Design - create a system architecture and detailed design specifications of the system which includes the programming languages and databases to be used.
 4. Implementation - Here is where coding of the system happens.
 5. Testing - Identify, test and fix error from the software developed in stage four.
-6. Deployment - Releas the software in a live environment.
+6. Deployment - Release the software in a live environment.
 7. Maintenance and support - Continuously offer support post-deployment by addressing user challengs and monitoring the system for any bugs.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -26,7 +26,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 2. Waterfall is highly rigid in making changes while Agile is flexible and allows continuos changes.
 3. Waterfall's process is linear while Agile's is iterative.
 4. Testing for Waterfall is done after development whilst Agile done continuously throughout the development stage.
-5. For Waterfall, custome's is engaged in planning stage and after delivery while for Agile customer is engaged continuosly in development.
+5. For Waterfall, customer's is engaged in planning stage and after delivery while for Agile customer is engaged continuosly in development.
 Scenarios for Waterfall: government projects, infrastructure projects, banking system upgrade
 Scenarios for Agile: Mobile Apps,e-commerce sites, games development
    
@@ -37,13 +37,13 @@ Project Manager: Oversees software development projects by ensuring that they me
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Importance of Integrated Development Environments (IDEs) - Code debugging, supporting multiple programming languages, increasing developer productivity. Examples are visual studio code.Pycharm, Eclipse
-Importance of Version Control Systems (VCS) - Tracks changes and mantain code history, promotes collaboration among developers and helps in continuos integration and development. Examples are Git and Mercurial
+Importance of Integrated Development Environments (IDEs) - Code debugging, supporting multiple programming languages, increasing developer productivity. Examples are Visual Studio Code, Pycharm, Eclipse
+Importance of Version Control Systems (VCS) - Tracks changes and mantain code history, promotes collaboration among developers and helps in continuous integration and development. Examples are Git and Mercurial.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1.Debugging and fixing bugs. Strategy is using IDEs and VCs.
 2.Prone to hacked. Strategy is using coding best practices and performing regular security audits.
-3. Ever evolving technology - Strategy isKeeping up to date of latest technology by setting time for upskilling and following tech blogs and communities.
+3. Ever evolving technology - Strategy is Keeping up to date of latest technology by setting time for upskilling and following tech blogs and communities.
 4. Meeting tight deadlines - Strategy is using agile methods and clear communication on expected deadlines.
 5. Poor communication and collaboration - Strategy is having well defined roles and responsibilities and using collaboration tools like slack.
 
