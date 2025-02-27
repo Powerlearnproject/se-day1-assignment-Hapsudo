@@ -8,8 +8,8 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the engineering which invlolves design,development, testing, deployment and maintenance of software. It is important because promotes innovation, enhances data security, improves productivity and ensures software reliability.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1.The Birth of Software Engineering 1968-NATO Conference. This is where software engineering was introduced where many software projects failed which included lack of structured processes, system comoplexity and poor planning 
-2. The rise of Object Oriented Programming - 1980s. This is whre OOP arised to help in system scalability, reusability and mantainability of coding.
+1.The Birth of Software Engineering 1968-NATO Conference. This is where software engineering was introduced where many software projects failed which included lack of structured processes, system comoplexity and poor planning .
+2. The rise of Object Oriented Programming - 1980s. This is where OOP arised to help in system scalability, reusability and mantainability of coding.
 3. The rise of Agile and DevOps 2001 - Present. This period introduced agike development of programs which encourages flexible and iterative software development as opposed to limitations of traditional methods like waterfall. Addditionally DevOps emerged to promote collaboration between developers and operations to enable faster and reliable software delivery.
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -57,6 +57,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+This is the process of designing and refining input prompts to optimize interactions with AI models and it is important because it allos the AI to generate accurate, coherent results which will improve the user experience in the long run.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+1. Success of an entrepreneur. List for me the main advantages of being an entrepreneur and what it would take to become one.
